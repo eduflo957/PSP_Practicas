@@ -1,9 +1,6 @@
-from random import randint, Random
+# Por qué no me deja form Random import random, randint
+import random
+import metodos_juego_dado
 
-dadoRangeA=1
-dadoRangeB=6
-random = Random.randint(dadoRangeA, dadoRangeB)
+metodos_juego_dado.metodos.jugarPartidaEntera(metodos_juego_dado.metodos.jugarPartidaEntera);
 
-dado = random
-
-print(dado)
