@@ -1,5 +1,9 @@
-random = random()
+from random import randint, Random
 
-dado = nextInt.random
+dadoRangeA=1
+dadoRangeB=6
+random = Random.randint(dadoRangeA, dadoRangeB)
+
+dado = random
 
 print(dado)
