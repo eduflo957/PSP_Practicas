@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Random;
 
-public class Main {
+public class runnable1 {
 
     public class Jugador implements Runnable {
         int pos = 0;
