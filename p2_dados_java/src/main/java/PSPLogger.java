@@ -12,7 +12,7 @@ public class PSPLogger {
         // de logging.properties y aplicarlo
         try {
             LogManager.getLogManager().readConfiguration(
-                MultiRequester.class.getResourceAsStream("logging.properties")
+                MainJuego.class.getResourceAsStream("logging.properties")
             );
         } catch (Exception ex) {
             l.severe("Problemas con el fichero de propiedades");
