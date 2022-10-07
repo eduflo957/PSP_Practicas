@@ -2,9 +2,9 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2022-10-07T08:19:32.246629400Z</date>
-  <millis>1665130772246</millis>
-  <nanos>629400</nanos>
+  <date>2022-10-07T08:31:36.615508200Z</date>
+  <millis>1665131496615</millis>
+  <nanos>508200</nanos>
   <sequence>1</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
@@ -14,573 +14,223 @@
   <message>El número de este hilo es: [Thread[Thread-0,5,main], Thread[Thread-1,5,main], Thread[Thread-2,5,main], Thread[Thread-3,5,main], Thread[Thread-4,5,main], Thread[Thread-5,5,main], Thread[Thread-6,5,main], Thread[Thread-7,5,main], Thread[Thread-8,5,main], Thread[Thread-9,5,main]]</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:32.380838300Z</date>
-  <millis>1665130772380</millis>
-  <nanos>838300</nanos>
+  <date>2022-10-07T08:31:36.641493Z</date>
+  <millis>1665131496641</millis>
+  <nanos>493000</nanos>
   <sequence>2</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Posición: 3
-Thread[Thread-7,5,main]Has sacado: 3</message>
+  <thread>20</thread>
+  <message>Thread[Thread-5,5,main]Posición: 3
+Thread[Thread-5,5,main]Has sacado: 3</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:32.385833200Z</date>
-  <millis>1665130772385</millis>
-  <nanos>833200</nanos>
+  <date>2022-10-07T08:31:36.647489800Z</date>
+  <millis>1665131496647</millis>
+  <nanos>489800</nanos>
   <sequence>3</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Nueva Posición: 3</message>
+  <thread>20</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posición: 3</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:33.212368800Z</date>
-  <millis>1665130773212</millis>
-  <nanos>368800</nanos>
+  <date>2022-10-07T08:31:36.701455600Z</date>
+  <millis>1665131496701</millis>
+  <nanos>455600</nanos>
   <sequence>4</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Posición: 2
-Thread[Thread-0,5,main]Has sacado: 2</message>
+  <thread>17</thread>
+  <message>Thread[Thread-2,5,main]Posición: 3
+Thread[Thread-2,5,main]Has sacado: 3</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:33.213368700Z</date>
-  <millis>1665130773213</millis>
-  <nanos>368700</nanos>
+  <date>2022-10-07T08:31:36.701455600Z</date>
+  <millis>1665131496701</millis>
+  <nanos>455600</nanos>
   <sequence>5</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Nueva Posición: 2</message>
+  <thread>17</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posición: 3</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:33.260338400Z</date>
-  <millis>1665130773260</millis>
-  <nanos>338400</nanos>
+  <date>2022-10-07T08:31:36.719444900Z</date>
+  <millis>1665131496719</millis>
+  <nanos>444900</nanos>
   <sequence>6</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 4
-Thread[Thread-9,5,main]Has sacado: 4</message>
+  <thread>15</thread>
+  <message>Thread[Thread-0,5,main]Posición: 3
+Thread[Thread-0,5,main]Has sacado: 3</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:33.260338400Z</date>
-  <millis>1665130773260</millis>
-  <nanos>338400</nanos>
+  <date>2022-10-07T08:31:36.719444900Z</date>
+  <millis>1665131496719</millis>
+  <nanos>444900</nanos>
   <sequence>7</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 4</message>
+  <thread>15</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posición: 3</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:33.314308700Z</date>
-  <millis>1665130773314</millis>
-  <nanos>308700</nanos>
+  <date>2022-10-07T08:31:36.931545Z</date>
+  <millis>1665131496931</millis>
+  <nanos>545000</nanos>
   <sequence>8</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 1
-Thread[Thread-8,5,main]Has sacado: 1</message>
+  <message>Thread[Thread-8,5,main]Posición: 2
+Thread[Thread-8,5,main]Has sacado: 2</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:33.314308700Z</date>
-  <millis>1665130773314</millis>
-  <nanos>308700</nanos>
+  <date>2022-10-07T08:31:36.931545Z</date>
+  <millis>1665131496931</millis>
+  <nanos>545000</nanos>
   <sequence>9</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 1</message>
+  <message>Thread[Thread-8,5,main]Nueva Posición: 2</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:33.461661500Z</date>
-  <millis>1665130773461</millis>
-  <nanos>661500</nanos>
+  <date>2022-10-07T08:31:37.317592400Z</date>
+  <millis>1665131497317</millis>
+  <nanos>592400</nanos>
   <sequence>10</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Posición: 1
-Thread[Thread-4,5,main]Has sacado: 1</message>
+  <thread>18</thread>
+  <message>Thread[Thread-3,5,main]Posición: 5
+Thread[Thread-3,5,main]Has sacado: 5</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:33.461661500Z</date>
-  <millis>1665130773461</millis>
-  <nanos>661500</nanos>
+  <date>2022-10-07T08:31:37.318592100Z</date>
+  <millis>1665131497318</millis>
+  <nanos>592100</nanos>
   <sequence>11</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Nueva Posición: 1</message>
+  <thread>18</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posición: 5</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:33.532437200Z</date>
-  <millis>1665130773532</millis>
-  <nanos>437200</nanos>
+  <date>2022-10-07T08:31:37.318592100Z</date>
+  <millis>1665131497318</millis>
+  <nanos>592100</nanos>
   <sequence>12</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Posición: 1
-Thread[Thread-3,5,main]Has sacado: 1</message>
+  <thread>15</thread>
+  <message>Thread[Thread-0,5,main]Posición: 5
+Thread[Thread-0,5,main]Has sacado: 2</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:33.532437200Z</date>
-  <millis>1665130773532</millis>
-  <nanos>437200</nanos>
+  <date>2022-10-07T08:31:37.330584200Z</date>
+  <millis>1665131497330</millis>
+  <nanos>584200</nanos>
   <sequence>13</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Nueva Posición: 1</message>
+  <thread>15</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posición: 5</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:33.599749Z</date>
-  <millis>1665130773599</millis>
-  <nanos>749000</nanos>
+  <date>2022-10-07T08:31:37.394544300Z</date>
+  <millis>1665131497394</millis>
+  <nanos>544300</nanos>
   <sequence>14</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Posición: 8
-Thread[Thread-7,5,main]Has sacado: 5</message>
+  <message>Thread[Thread-7,5,main]Posición: 4
+Thread[Thread-7,5,main]Has sacado: 4</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:33.599749Z</date>
-  <millis>1665130773599</millis>
-  <nanos>749000</nanos>
+  <date>2022-10-07T08:31:37.394544300Z</date>
+  <millis>1665131497394</millis>
+  <nanos>544300</nanos>
   <sequence>15</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Nueva Posición: 8</message>
+  <message>Thread[Thread-7,5,main]Nueva Posición: 4</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:33.724420Z</date>
-  <millis>1665130773724</millis>
-  <nanos>420000</nanos>
+  <date>2022-10-07T08:31:37.404539Z</date>
+  <millis>1665131497404</millis>
+  <nanos>539000</nanos>
   <sequence>16</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Posición: 4
-Thread[Thread-0,5,main]Has sacado: 2</message>
+  <thread>24</thread>
+  <message>Thread[Thread-9,5,main]Posición: 1
+Thread[Thread-9,5,main]Has sacado: 1</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:33.724420Z</date>
-  <millis>1665130773724</millis>
-  <nanos>420000</nanos>
+  <date>2022-10-07T08:31:37.404539Z</date>
+  <millis>1665131497404</millis>
+  <nanos>539000</nanos>
   <sequence>17</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Nueva Posición: 4</message>
+  <thread>24</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posición: 1</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:33.917333600Z</date>
-  <millis>1665130773917</millis>
-  <nanos>333600</nanos>
+  <date>2022-10-07T08:31:37.432521200Z</date>
+  <millis>1665131497432</millis>
+  <nanos>521200</nanos>
   <sequence>18</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 4
-Thread[Thread-8,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:33.917333600Z</date>
-  <millis>1665130773917</millis>
-  <nanos>333600</nanos>
-  <sequence>19</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:33.935327400Z</date>
-  <millis>1665130773935</millis>
-  <nanos>327400</nanos>
-  <sequence>20</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Posición: 4
-Thread[Thread-5,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:33.935327400Z</date>
-  <millis>1665130773935</millis>
-  <nanos>327400</nanos>
-  <sequence>21</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Nueva Posición: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:33.976712700Z</date>
-  <millis>1665130773976</millis>
-  <nanos>712700</nanos>
-  <sequence>22</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Posición: 2
-Thread[Thread-6,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:33.976712700Z</date>
-  <millis>1665130773976</millis>
-  <nanos>712700</nanos>
-  <sequence>23</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Nueva Posición: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.003692600Z</date>
-  <millis>1665130774003</millis>
-  <nanos>692600</nanos>
-  <sequence>24</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 1
-Thread[Thread-2,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.003692600Z</date>
-  <millis>1665130774003</millis>
-  <nanos>692600</nanos>
-  <sequence>25</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.009676Z</date>
-  <millis>1665130774009</millis>
-  <nanos>676000</nanos>
-  <sequence>26</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Posición: 5
-Thread[Thread-1,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.009676Z</date>
-  <millis>1665130774009</millis>
-  <nanos>676000</nanos>
-  <sequence>27</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Nueva Posición: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.023807Z</date>
-  <millis>1665130774023</millis>
-  <nanos>807000</nanos>
-  <sequence>28</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 5
-Thread[Thread-8,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.023807Z</date>
-  <millis>1665130774023</millis>
-  <nanos>807000</nanos>
-  <sequence>29</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.083497300Z</date>
-  <millis>1665130774083</millis>
-  <nanos>497300</nanos>
-  <sequence>30</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 2
-Thread[Thread-2,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.083497300Z</date>
-  <millis>1665130774083</millis>
-  <nanos>497300</nanos>
-  <sequence>31</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.100884900Z</date>
-  <millis>1665130774100</millis>
-  <nanos>884900</nanos>
-  <sequence>32</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Posición: 10
-Thread[Thread-7,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.100884900Z</date>
-  <millis>1665130774100</millis>
-  <nanos>884900</nanos>
-  <sequence>33</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Nueva Posición: 10</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.216970400Z</date>
-  <millis>1665130774216</millis>
-  <nanos>970400</nanos>
-  <sequence>34</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Posición: 13
-Thread[Thread-7,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.216970400Z</date>
-  <millis>1665130774216</millis>
-  <nanos>970400</nanos>
-  <sequence>35</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Nueva Posición: 13</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.370596Z</date>
-  <millis>1665130774370</millis>
-  <nanos>596000</nanos>
-  <sequence>36</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 4
-Thread[Thread-2,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.370596Z</date>
-  <millis>1665130774370</millis>
-  <nanos>596000</nanos>
-  <sequence>37</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.396652200Z</date>
-  <millis>1665130774396</millis>
-  <nanos>652200</nanos>
-  <sequence>38</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 7
-Thread[Thread-2,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.396652200Z</date>
-  <millis>1665130774396</millis>
-  <nanos>652200</nanos>
-  <sequence>39</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 7</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.409888800Z</date>
-  <millis>1665130774409</millis>
-  <nanos>888800</nanos>
-  <sequence>40</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 10
-Thread[Thread-8,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.409888800Z</date>
-  <millis>1665130774409</millis>
-  <nanos>888800</nanos>
-  <sequence>41</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 10</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.554474700Z</date>
-  <millis>1665130774554</millis>
-  <nanos>474700</nanos>
-  <sequence>42</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Posición: 3
-Thread[Thread-3,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.554474700Z</date>
-  <millis>1665130774554</millis>
-  <nanos>474700</nanos>
-  <sequence>43</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Nueva Posición: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.646919700Z</date>
-  <millis>1665130774646</millis>
-  <nanos>919700</nanos>
-  <sequence>44</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 11
-Thread[Thread-8,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.646919700Z</date>
-  <millis>1665130774646</millis>
-  <nanos>919700</nanos>
-  <sequence>45</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 11</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.659563400Z</date>
-  <millis>1665130774659</millis>
-  <nanos>563400</nanos>
-  <sequence>46</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>18</thread>
   <message>Thread[Thread-3,5,main]Posición: 6
-Thread[Thread-3,5,main]Has sacado: 3</message>
+Thread[Thread-3,5,main]Has sacado: 1</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:34.659563400Z</date>
-  <millis>1665130774659</millis>
-  <nanos>563400</nanos>
-  <sequence>47</sequence>
+  <date>2022-10-07T08:31:37.432521200Z</date>
+  <millis>1665131497432</millis>
+  <nanos>521200</nanos>
+  <sequence>19</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
@@ -589,1123 +239,198 @@ Thread[Thread-3,5,main]Has sacado: 3</message>
   <message>Thread[Thread-3,5,main]Nueva Posición: 6</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:34.859423500Z</date>
-  <millis>1665130774859</millis>
-  <nanos>423500</nanos>
-  <sequence>48</sequence>
+  <date>2022-10-07T08:31:37.671681100Z</date>
+  <millis>1665131497671</millis>
+  <nanos>681100</nanos>
+  <sequence>20</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Thread[Thread-6,5,main]Posición: 4
+Thread[Thread-6,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:37.671681100Z</date>
+  <millis>1665131497671</millis>
+  <nanos>681100</nanos>
+  <sequence>21</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posición: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:37.813524100Z</date>
+  <millis>1665131497813</millis>
+  <nanos>524100</nanos>
+  <sequence>22</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Thread[Thread-5,5,main]Posición: 7
+Thread[Thread-5,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:37.813524100Z</date>
+  <millis>1665131497813</millis>
+  <nanos>524100</nanos>
+  <sequence>23</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posición: 7</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:37.840010200Z</date>
+  <millis>1665131497840</millis>
+  <nanos>10200</nanos>
+  <sequence>24</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Thread[Thread-4,5,main]Posición: 4
+Thread[Thread-4,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:37.840010200Z</date>
+  <millis>1665131497840</millis>
+  <nanos>10200</nanos>
+  <sequence>25</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posición: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:37.855530600Z</date>
+  <millis>1665131497855</millis>
+  <nanos>530600</nanos>
+  <sequence>26</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Thread[Thread-2,5,main]Posición: 4
+Thread[Thread-2,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:37.855530600Z</date>
+  <millis>1665131497855</millis>
+  <nanos>530600</nanos>
+  <sequence>27</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posición: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:38.269574500Z</date>
+  <millis>1665131498269</millis>
+  <nanos>574500</nanos>
+  <sequence>28</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Thread[Thread-1,5,main]Posición: 1
+Thread[Thread-1,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:38.269574500Z</date>
+  <millis>1665131498269</millis>
+  <nanos>574500</nanos>
+  <sequence>29</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posición: 1</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:38.330604100Z</date>
+  <millis>1665131498330</millis>
+  <nanos>604100</nanos>
+  <sequence>30</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 8
+  <message>Thread[Thread-9,5,main]Posición: 5
 Thread[Thread-9,5,main]Has sacado: 4</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:34.859423500Z</date>
-  <millis>1665130774859</millis>
-  <nanos>423500</nanos>
-  <sequence>49</sequence>
+  <date>2022-10-07T08:31:38.330604100Z</date>
+  <millis>1665131498330</millis>
+  <nanos>604100</nanos>
+  <sequence>31</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 8</message>
+  <message>Thread[Thread-9,5,main]Nueva Posición: 5</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:34.893722800Z</date>
-  <millis>1665130774893</millis>
-  <nanos>722800</nanos>
-  <sequence>50</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Posición: 2
-Thread[Thread-4,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.893722800Z</date>
-  <millis>1665130774893</millis>
-  <nanos>722800</nanos>
-  <sequence>51</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Nueva Posición: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.927483100Z</date>
-  <millis>1665130774927</millis>
-  <nanos>483100</nanos>
-  <sequence>52</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Posición: 7
-Thread[Thread-0,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:34.927483100Z</date>
-  <millis>1665130774927</millis>
-  <nanos>483100</nanos>
-  <sequence>53</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Nueva Posición: 7</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.029039900Z</date>
-  <millis>1665130775029</millis>
-  <nanos>39900</nanos>
-  <sequence>54</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Posición: 16
-Thread[Thread-7,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.029039900Z</date>
-  <millis>1665130775029</millis>
-  <nanos>39900</nanos>
-  <sequence>55</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Nueva Posición: 16</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.254722300Z</date>
-  <millis>1665130775254</millis>
-  <nanos>722300</nanos>
-  <sequence>56</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Posición: 10
-Thread[Thread-1,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.254722300Z</date>
-  <millis>1665130775254</millis>
-  <nanos>722300</nanos>
-  <sequence>57</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Nueva Posición: 10</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.394849500Z</date>
-  <millis>1665130775394</millis>
-  <nanos>849500</nanos>
-  <sequence>58</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 9
-Thread[Thread-2,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.394849500Z</date>
-  <millis>1665130775394</millis>
-  <nanos>849500</nanos>
-  <sequence>59</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 9</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.443467400Z</date>
-  <millis>1665130775443</millis>
-  <nanos>467400</nanos>
-  <sequence>60</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Posición: 5
-Thread[Thread-6,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.443467400Z</date>
-  <millis>1665130775443</millis>
-  <nanos>467400</nanos>
-  <sequence>61</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Nueva Posición: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.583382700Z</date>
-  <millis>1665130775583</millis>
-  <nanos>382700</nanos>
-  <sequence>62</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Posición: 6
-Thread[Thread-5,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.583382700Z</date>
-  <millis>1665130775583</millis>
-  <nanos>382700</nanos>
-  <sequence>63</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Nueva Posición: 6</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.593530300Z</date>
-  <millis>1665130775593</millis>
-  <nanos>530300</nanos>
-  <sequence>64</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Posición: 9
-Thread[Thread-0,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.593530300Z</date>
-  <millis>1665130775593</millis>
-  <nanos>530300</nanos>
-  <sequence>65</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Nueva Posición: 9</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.752794600Z</date>
-  <millis>1665130775752</millis>
-  <nanos>794600</nanos>
-  <sequence>66</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Posición: 6
-Thread[Thread-4,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.752794600Z</date>
-  <millis>1665130775752</millis>
-  <nanos>794600</nanos>
-  <sequence>67</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Nueva Posición: 6</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.920419800Z</date>
-  <millis>1665130775920</millis>
-  <nanos>419800</nanos>
-  <sequence>68</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Posición: 17
-Thread[Thread-7,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:35.920419800Z</date>
-  <millis>1665130775920</millis>
-  <nanos>419800</nanos>
-  <sequence>69</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Nueva Posición: 17</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.085634100Z</date>
-  <millis>1665130776085</millis>
-  <nanos>634100</nanos>
-  <sequence>70</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Posición: 7
-Thread[Thread-3,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.085634100Z</date>
-  <millis>1665130776085</millis>
-  <nanos>634100</nanos>
-  <sequence>71</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Nueva Posición: 7</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.250993300Z</date>
-  <millis>1665130776250</millis>
-  <nanos>993300</nanos>
-  <sequence>72</sequence>
+  <date>2022-10-07T08:31:38.489697800Z</date>
+  <millis>1665131498489</millis>
+  <nanos>697800</nanos>
+  <sequence>32</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 14
-Thread[Thread-8,5,main]Has sacado: 3</message>
+  <message>Thread[Thread-8,5,main]Posición: 4
+Thread[Thread-8,5,main]Has sacado: 2</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:36.250993300Z</date>
-  <millis>1665130776250</millis>
-  <nanos>993300</nanos>
-  <sequence>73</sequence>
+  <date>2022-10-07T08:31:38.489697800Z</date>
+  <millis>1665131498489</millis>
+  <nanos>697800</nanos>
+  <sequence>33</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 14</message>
+  <message>Thread[Thread-8,5,main]Nueva Posición: 4</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:36.307894700Z</date>
-  <millis>1665130776307</millis>
-  <nanos>894700</nanos>
-  <sequence>74</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 12
-Thread[Thread-2,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.307894700Z</date>
-  <millis>1665130776307</millis>
-  <nanos>894700</nanos>
-  <sequence>75</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 12</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.434676300Z</date>
-  <millis>1665130776434</millis>
-  <nanos>676300</nanos>
-  <sequence>76</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Posición: 8
-Thread[Thread-3,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.434676300Z</date>
-  <millis>1665130776434</millis>
-  <nanos>676300</nanos>
-  <sequence>77</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Nueva Posición: 8</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.561544300Z</date>
-  <millis>1665130776561</millis>
-  <nanos>544300</nanos>
-  <sequence>78</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Posición: 13
-Thread[Thread-1,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.561544300Z</date>
-  <millis>1665130776561</millis>
-  <nanos>544300</nanos>
-  <sequence>79</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Nueva Posición: 13</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.695513900Z</date>
-  <millis>1665130776695</millis>
-  <nanos>513900</nanos>
-  <sequence>80</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 9
-Thread[Thread-9,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.695513900Z</date>
-  <millis>1665130776695</millis>
-  <nanos>513900</nanos>
-  <sequence>81</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 9</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.734766900Z</date>
-  <millis>1665130776734</millis>
-  <nanos>766900</nanos>
-  <sequence>82</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Posición: 8
-Thread[Thread-6,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.734766900Z</date>
-  <millis>1665130776734</millis>
-  <nanos>766900</nanos>
-  <sequence>83</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Nueva Posición: 8</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.770559800Z</date>
-  <millis>1665130776770</millis>
-  <nanos>559800</nanos>
-  <sequence>84</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 13
-Thread[Thread-9,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.770559800Z</date>
-  <millis>1665130776770</millis>
-  <nanos>559800</nanos>
-  <sequence>85</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 13</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.839649600Z</date>
-  <millis>1665130776839</millis>
-  <nanos>649600</nanos>
-  <sequence>86</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Posición: 10
-Thread[Thread-4,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:36.839649600Z</date>
-  <millis>1665130776839</millis>
-  <nanos>649600</nanos>
-  <sequence>87</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Nueva Posición: 10</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.050703Z</date>
-  <millis>1665130777050</millis>
-  <nanos>703000</nanos>
-  <sequence>88</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Posición: 13
-Thread[Thread-3,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.050703Z</date>
-  <millis>1665130777050</millis>
-  <nanos>703000</nanos>
-  <sequence>89</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Nueva Posición: 13</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.120942200Z</date>
-  <millis>1665130777120</millis>
-  <nanos>942200</nanos>
-  <sequence>90</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 15
-Thread[Thread-2,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.120942200Z</date>
-  <millis>1665130777120</millis>
-  <nanos>942200</nanos>
-  <sequence>91</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 15</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.267661800Z</date>
-  <millis>1665130777267</millis>
-  <nanos>661800</nanos>
-  <sequence>92</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Posición: 17
-Thread[Thread-3,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.267661800Z</date>
-  <millis>1665130777267</millis>
-  <nanos>661800</nanos>
-  <sequence>93</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Nueva Posición: 17</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.295589500Z</date>
-  <millis>1665130777295</millis>
-  <nanos>589500</nanos>
-  <sequence>94</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Posición: 12
-Thread[Thread-0,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.295589500Z</date>
-  <millis>1665130777295</millis>
-  <nanos>589500</nanos>
-  <sequence>95</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Nueva Posición: 12</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.343512300Z</date>
-  <millis>1665130777343</millis>
-  <nanos>512300</nanos>
-  <sequence>96</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Posición: 18
-Thread[Thread-7,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.343512300Z</date>
-  <millis>1665130777343</millis>
-  <nanos>512300</nanos>
-  <sequence>97</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Nueva Posición: 18</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.429406Z</date>
-  <millis>1665130777429</millis>
-  <nanos>406000</nanos>
-  <sequence>98</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Posición: 8
-Thread[Thread-5,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.429406Z</date>
-  <millis>1665130777429</millis>
-  <nanos>406000</nanos>
-  <sequence>99</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Nueva Posición: 8</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.567833400Z</date>
-  <millis>1665130777567</millis>
-  <nanos>833400</nanos>
-  <sequence>100</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 17
-Thread[Thread-8,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.567833400Z</date>
-  <millis>1665130777567</millis>
-  <nanos>833400</nanos>
-  <sequence>101</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 17</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.675908800Z</date>
-  <millis>1665130777675</millis>
-  <nanos>908800</nanos>
-  <sequence>102</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 20
-Thread[Thread-8,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.675908800Z</date>
-  <millis>1665130777675</millis>
-  <nanos>908800</nanos>
-  <sequence>103</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 20</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.814632900Z</date>
-  <millis>1665130777814</millis>
-  <nanos>632900</nanos>
-  <sequence>104</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Posición: 16
-Thread[Thread-0,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.814632900Z</date>
-  <millis>1665130777814</millis>
-  <nanos>632900</nanos>
-  <sequence>105</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Nueva Posición: 16</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.859697900Z</date>
-  <millis>1665130777859</millis>
-  <nanos>697900</nanos>
-  <sequence>106</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Posición: 18
-Thread[Thread-0,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.859697900Z</date>
-  <millis>1665130777859</millis>
-  <nanos>697900</nanos>
-  <sequence>107</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Nueva Posición: 18</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.915576200Z</date>
-  <millis>1665130777915</millis>
-  <nanos>576200</nanos>
-  <sequence>108</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Posición: 17
-Thread[Thread-1,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.915576200Z</date>
-  <millis>1665130777915</millis>
-  <nanos>576200</nanos>
-  <sequence>109</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Nueva Posición: 17</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.939737700Z</date>
-  <millis>1665130777939</millis>
-  <nanos>737700</nanos>
-  <sequence>110</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Posición: 11
-Thread[Thread-6,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.939737700Z</date>
-  <millis>1665130777939</millis>
-  <nanos>737700</nanos>
-  <sequence>111</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Nueva Posición: 11</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.971037800Z</date>
-  <millis>1665130777971</millis>
-  <nanos>37800</nanos>
-  <sequence>112</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 16
-Thread[Thread-9,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:37.971037800Z</date>
-  <millis>1665130777971</millis>
-  <nanos>37800</nanos>
-  <sequence>113</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 16</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:38.012892300Z</date>
-  <millis>1665130778012</millis>
-  <nanos>892300</nanos>
-  <sequence>114</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Posición: 14
-Thread[Thread-4,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:38.012892300Z</date>
-  <millis>1665130778012</millis>
-  <nanos>892300</nanos>
-  <sequence>115</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Nueva Posición: 14</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:38.060083400Z</date>
-  <millis>1665130778060</millis>
-  <nanos>83400</nanos>
-  <sequence>116</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Posición: 16
-Thread[Thread-6,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:38.060083400Z</date>
-  <millis>1665130778060</millis>
-  <nanos>83400</nanos>
-  <sequence>117</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Nueva Posición: 16</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:38.342142400Z</date>
-  <millis>1665130778342</millis>
-  <nanos>142400</nanos>
-  <sequence>118</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Posición: 23
-Thread[Thread-7,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:38.342142400Z</date>
-  <millis>1665130778342</millis>
-  <nanos>142400</nanos>
-  <sequence>119</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 17
-Thread[Thread-2,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:38.342142400Z</date>
-  <millis>1665130778342</millis>
-  <nanos>142400</nanos>
-  <sequence>120</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Nueva Posición: 23</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:38.342142400Z</date>
-  <millis>1665130778342</millis>
-  <nanos>142400</nanos>
-  <sequence>121</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 17</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:38.592173200Z</date>
-  <millis>1665130778592</millis>
-  <nanos>173200</nanos>
-  <sequence>122</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Posición: 21
-Thread[Thread-6,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:38.592173200Z</date>
-  <millis>1665130778592</millis>
-  <nanos>173200</nanos>
-  <sequence>123</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Nueva Posición: 21</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:38.615945100Z</date>
-  <millis>1665130778615</millis>
-  <nanos>945100</nanos>
-  <sequence>124</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Posición: 15
-Thread[Thread-4,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:38.615945100Z</date>
-  <millis>1665130778615</millis>
-  <nanos>945100</nanos>
-  <sequence>125</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Nueva Posición: 15</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:38.852967100Z</date>
-  <millis>1665130778852</millis>
-  <nanos>967100</nanos>
-  <sequence>126</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Posición: 21
-Thread[Thread-1,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:38.852967100Z</date>
-  <millis>1665130778852</millis>
-  <nanos>967100</nanos>
-  <sequence>127</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Nueva Posición: 21</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:39.006506700Z</date>
-  <millis>1665130779006</millis>
-  <nanos>506700</nanos>
-  <sequence>128</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Posición: 9
-Thread[Thread-5,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:39.006506700Z</date>
-  <millis>1665130779006</millis>
-  <nanos>506700</nanos>
-  <sequence>129</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Nueva Posición: 9</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:39.140101400Z</date>
-  <millis>1665130779140</millis>
-  <nanos>101400</nanos>
-  <sequence>130</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 18
-Thread[Thread-9,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:39.140101400Z</date>
-  <millis>1665130779140</millis>
-  <nanos>101400</nanos>
-  <sequence>131</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 18</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:39.144707200Z</date>
-  <millis>1665130779144</millis>
-  <nanos>707200</nanos>
-  <sequence>132</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Posición: 22
-Thread[Thread-3,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:39.144707200Z</date>
-  <millis>1665130779144</millis>
-  <nanos>707200</nanos>
-  <sequence>133</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Nueva Posición: 22</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:39.149951700Z</date>
-  <millis>1665130779149</millis>
-  <nanos>951700</nanos>
-  <sequence>134</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 21
-Thread[Thread-8,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:39.149951700Z</date>
-  <millis>1665130779149</millis>
-  <nanos>951700</nanos>
-  <sequence>135</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 21</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:39.177567Z</date>
-  <millis>1665130779177</millis>
-  <nanos>567000</nanos>
-  <sequence>136</sequence>
+  <date>2022-10-07T08:31:38.721609200Z</date>
+  <millis>1665131498721</millis>
+  <nanos>609200</nanos>
+  <sequence>34</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>20</thread>
   <message>Thread[Thread-5,5,main]Posición: 12
-Thread[Thread-5,5,main]Has sacado: 3</message>
+Thread[Thread-5,5,main]Has sacado: 5</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:39.177567Z</date>
-  <millis>1665130779177</millis>
-  <nanos>567000</nanos>
-  <sequence>137</sequence>
+  <date>2022-10-07T08:31:38.721609200Z</date>
+  <millis>1665131498721</millis>
+  <nanos>609200</nanos>
+  <sequence>35</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
@@ -1714,73 +439,923 @@ Thread[Thread-5,5,main]Has sacado: 3</message>
   <message>Thread[Thread-5,5,main]Nueva Posición: 12</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:39.259861Z</date>
-  <millis>1665130779259</millis>
-  <nanos>861000</nanos>
-  <sequence>138</sequence>
+  <date>2022-10-07T08:31:38.760618700Z</date>
+  <millis>1665131498760</millis>
+  <nanos>618700</nanos>
+  <sequence>36</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Posición: 25
-Thread[Thread-6,5,main]Has sacado: 4</message>
+  <thread>22</thread>
+  <message>Thread[Thread-7,5,main]Posición: 6
+Thread[Thread-7,5,main]Has sacado: 2</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:39.259861Z</date>
-  <millis>1665130779259</millis>
-  <nanos>861000</nanos>
-  <sequence>139</sequence>
+  <date>2022-10-07T08:31:38.760618700Z</date>
+  <millis>1665131498760</millis>
+  <nanos>618700</nanos>
+  <sequence>37</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Nueva Posición: 25</message>
+  <thread>22</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posición: 6</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:39.264355600Z</date>
-  <millis>1665130779264</millis>
-  <nanos>355600</nanos>
-  <sequence>140</sequence>
+  <date>2022-10-07T08:31:38.992485200Z</date>
+  <millis>1665131498992</millis>
+  <nanos>485200</nanos>
+  <sequence>38</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Thread[Thread-4,5,main]Posición: 7
+Thread[Thread-4,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:38.992485200Z</date>
+  <millis>1665131498992</millis>
+  <nanos>485200</nanos>
+  <sequence>39</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posición: 7</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.114606200Z</date>
+  <millis>1665131499114</millis>
+  <nanos>606200</nanos>
+  <sequence>40</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Thread[Thread-3,5,main]Posición: 11
+Thread[Thread-3,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.114606200Z</date>
+  <millis>1665131499114</millis>
+  <nanos>606200</nanos>
+  <sequence>41</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posición: 11</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.230776Z</date>
+  <millis>1665131499230</millis>
+  <nanos>776000</nanos>
+  <sequence>42</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Thread[Thread-4,5,main]Posición: 10
+Thread[Thread-4,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.230776Z</date>
+  <millis>1665131499230</millis>
+  <nanos>776000</nanos>
+  <sequence>43</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posición: 10</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.302600Z</date>
+  <millis>1665131499302</millis>
+  <nanos>600000</nanos>
+  <sequence>44</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-8,5,main]Posición: 7
+Thread[Thread-8,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.302600Z</date>
+  <millis>1665131499302</millis>
+  <nanos>600000</nanos>
+  <sequence>45</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posición: 7</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.330628500Z</date>
+  <millis>1665131499330</millis>
+  <nanos>628500</nanos>
+  <sequence>46</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Posición: 19
-Thread[Thread-0,5,main]Has sacado: 1</message>
+  <message>Thread[Thread-0,5,main]Posición: 7
+Thread[Thread-0,5,main]Has sacado: 2</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:39.264355600Z</date>
-  <millis>1665130779264</millis>
-  <nanos>355600</nanos>
-  <sequence>141</sequence>
+  <date>2022-10-07T08:31:39.330628500Z</date>
+  <millis>1665131499330</millis>
+  <nanos>628500</nanos>
+  <sequence>47</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Nueva Posición: 19</message>
+  <message>Thread[Thread-0,5,main]Nueva Posición: 7</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:39.585457900Z</date>
-  <millis>1665130779585</millis>
-  <nanos>457900</nanos>
-  <sequence>142</sequence>
+  <date>2022-10-07T08:31:39.478657Z</date>
+  <millis>1665131499478</millis>
+  <nanos>657000</nanos>
+  <sequence>48</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Thread[Thread-1,5,main]Posición: 4
+Thread[Thread-1,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.478657Z</date>
+  <millis>1665131499478</millis>
+  <nanos>657000</nanos>
+  <sequence>49</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posición: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.562644900Z</date>
+  <millis>1665131499562</millis>
+  <nanos>644900</nanos>
+  <sequence>50</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-8,5,main]Posición: 9
+Thread[Thread-8,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.562644900Z</date>
+  <millis>1665131499562</millis>
+  <nanos>644900</nanos>
+  <sequence>51</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posición: 9</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.612743700Z</date>
+  <millis>1665131499612</millis>
+  <nanos>743700</nanos>
+  <sequence>52</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Thread[Thread-1,5,main]Posición: 7
+Thread[Thread-1,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.612743700Z</date>
+  <millis>1665131499612</millis>
+  <nanos>743700</nanos>
+  <sequence>53</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posición: 7</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.624782400Z</date>
+  <millis>1665131499624</millis>
+  <nanos>782400</nanos>
+  <sequence>54</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Thread[Thread-6,5,main]Posición: 6
+Thread[Thread-6,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.624782400Z</date>
+  <millis>1665131499624</millis>
+  <nanos>782400</nanos>
+  <sequence>55</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posición: 6</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.685967200Z</date>
+  <millis>1665131499685</millis>
+  <nanos>967200</nanos>
+  <sequence>56</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Thread[Thread-2,5,main]Posición: 6
+Thread[Thread-2,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.685967200Z</date>
+  <millis>1665131499685</millis>
+  <nanos>967200</nanos>
+  <sequence>57</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posición: 6</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.850833100Z</date>
+  <millis>1665131499850</millis>
+  <nanos>833100</nanos>
+  <sequence>58</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Thread[Thread-6,5,main]Posición: 11
+Thread[Thread-6,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.850833100Z</date>
+  <millis>1665131499850</millis>
+  <nanos>833100</nanos>
+  <sequence>59</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posición: 11</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.856720100Z</date>
+  <millis>1665131499856</millis>
+  <nanos>720100</nanos>
+  <sequence>60</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-7,5,main]Posición: 7
+Thread[Thread-7,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.856720100Z</date>
+  <millis>1665131499856</millis>
+  <nanos>720100</nanos>
+  <sequence>61</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posición: 7</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.894690400Z</date>
+  <millis>1665131499894</millis>
+  <nanos>690400</nanos>
+  <sequence>62</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Thread[Thread-5,5,main]Posición: 15
+Thread[Thread-5,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:39.894690400Z</date>
+  <millis>1665131499894</millis>
+  <nanos>690400</nanos>
+  <sequence>63</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posición: 15</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.030835Z</date>
+  <millis>1665131500030</millis>
+  <nanos>835000</nanos>
+  <sequence>64</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Thread[Thread-1,5,main]Posición: 11
+Thread[Thread-1,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.030835Z</date>
+  <millis>1665131500030</millis>
+  <nanos>835000</nanos>
+  <sequence>65</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posición: 11</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.049941100Z</date>
+  <millis>1665131500049</millis>
+  <nanos>941100</nanos>
+  <sequence>66</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Thread[Thread-0,5,main]Posición: 11
+Thread[Thread-0,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.049941100Z</date>
+  <millis>1665131500049</millis>
+  <nanos>941100</nanos>
+  <sequence>67</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posición: 11</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.167488900Z</date>
+  <millis>1665131500167</millis>
+  <nanos>488900</nanos>
+  <sequence>68</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-9,5,main]Posición: 9
+Thread[Thread-9,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.167488900Z</date>
+  <millis>1665131500167</millis>
+  <nanos>488900</nanos>
+  <sequence>69</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posición: 9</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.202765800Z</date>
+  <millis>1665131500202</millis>
+  <nanos>765800</nanos>
+  <sequence>70</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-7,5,main]Posición: 11
+Thread[Thread-7,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.202765800Z</date>
+  <millis>1665131500202</millis>
+  <nanos>765800</nanos>
+  <sequence>71</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posición: 11</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.305740300Z</date>
+  <millis>1665131500305</millis>
+  <nanos>740300</nanos>
+  <sequence>72</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-7,5,main]Posición: 12
+Thread[Thread-7,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.305740300Z</date>
+  <millis>1665131500305</millis>
+  <nanos>740300</nanos>
+  <sequence>73</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posición: 12</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.362825900Z</date>
+  <millis>1665131500362</millis>
+  <nanos>825900</nanos>
+  <sequence>74</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Thread[Thread-4,5,main]Posición: 15
+Thread[Thread-4,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.362825900Z</date>
+  <millis>1665131500362</millis>
+  <nanos>825900</nanos>
+  <sequence>75</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posición: 15</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.397048600Z</date>
+  <millis>1665131500397</millis>
+  <nanos>48600</nanos>
+  <sequence>76</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-9,5,main]Posición: 12
+Thread[Thread-9,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.397048600Z</date>
+  <millis>1665131500397</millis>
+  <nanos>48600</nanos>
+  <sequence>77</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posición: 12</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.414682200Z</date>
+  <millis>1665131500414</millis>
+  <nanos>682200</nanos>
+  <sequence>78</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Thread[Thread-3,5,main]Posición: 16
+Thread[Thread-3,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.414682200Z</date>
+  <millis>1665131500414</millis>
+  <nanos>682200</nanos>
+  <sequence>79</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posición: 16</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.442886900Z</date>
+  <millis>1665131500442</millis>
+  <nanos>886900</nanos>
+  <sequence>80</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Thread[Thread-1,5,main]Posición: 15
+Thread[Thread-1,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.442886900Z</date>
+  <millis>1665131500442</millis>
+  <nanos>886900</nanos>
+  <sequence>81</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posición: 15</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.649103700Z</date>
+  <millis>1665131500649</millis>
+  <nanos>103700</nanos>
+  <sequence>82</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-9,5,main]Posición: 14
+Thread[Thread-9,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.649103700Z</date>
+  <millis>1665131500649</millis>
+  <nanos>103700</nanos>
+  <sequence>83</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posición: 14</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.823049700Z</date>
+  <millis>1665131500823</millis>
+  <nanos>49700</nanos>
+  <sequence>84</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Thread[Thread-2,5,main]Posición: 7
+Thread[Thread-2,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:40.823049700Z</date>
+  <millis>1665131500823</millis>
+  <nanos>49700</nanos>
+  <sequence>85</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posición: 7</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.253746900Z</date>
+  <millis>1665131501253</millis>
+  <nanos>746900</nanos>
+  <sequence>86</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-7,5,main]Posición: 15
+Thread[Thread-7,5,main]Has sacado: 3</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.253746900Z</date>
+  <millis>1665131501253</millis>
+  <nanos>746900</nanos>
+  <sequence>87</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posición: 15</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.320681300Z</date>
+  <millis>1665131501320</millis>
+  <nanos>681300</nanos>
+  <sequence>88</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Thread[Thread-1,5,main]Posición: 16
+Thread[Thread-1,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.320681300Z</date>
+  <millis>1665131501320</millis>
+  <nanos>681300</nanos>
+  <sequence>89</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posición: 16</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.391037800Z</date>
+  <millis>1665131501391</millis>
+  <nanos>37800</nanos>
+  <sequence>90</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Thread[Thread-0,5,main]Posición: 15
+Thread[Thread-0,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.391037800Z</date>
+  <millis>1665131501391</millis>
+  <nanos>37800</nanos>
+  <sequence>91</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posición: 15</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.405166700Z</date>
+  <millis>1665131501405</millis>
+  <nanos>166700</nanos>
+  <sequence>92</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-9,5,main]Posición: 18
+Thread[Thread-9,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.405166700Z</date>
+  <millis>1665131501405</millis>
+  <nanos>166700</nanos>
+  <sequence>93</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posición: 18</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.496167200Z</date>
+  <millis>1665131501496</millis>
+  <nanos>167200</nanos>
+  <sequence>94</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-8,5,main]Posición: 11
+Thread[Thread-8,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.496167200Z</date>
+  <millis>1665131501496</millis>
+  <nanos>167200</nanos>
+  <sequence>95</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posición: 11</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.512961800Z</date>
+  <millis>1665131501512</millis>
+  <nanos>961800</nanos>
+  <sequence>96</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Thread[Thread-6,5,main]Posición: 13
+Thread[Thread-6,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.512961800Z</date>
+  <millis>1665131501512</millis>
+  <nanos>961800</nanos>
+  <sequence>97</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Thread[Thread-6,5,main]Nueva Posición: 13</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.523767600Z</date>
+  <millis>1665131501523</millis>
+  <nanos>767600</nanos>
+  <sequence>98</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Thread[Thread-3,5,main]Posición: 21
+Thread[Thread-3,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.523767600Z</date>
+  <millis>1665131501523</millis>
+  <nanos>767600</nanos>
+  <sequence>99</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posición: 21</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.789015700Z</date>
+  <millis>1665131501789</millis>
+  <nanos>15700</nanos>
+  <sequence>100</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Thread[Thread-5,5,main]Posición: 16
+Thread[Thread-5,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.789015700Z</date>
+  <millis>1665131501789</millis>
+  <nanos>15700</nanos>
+  <sequence>101</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posición: 16</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.866186100Z</date>
+  <millis>1665131501866</millis>
+  <nanos>186100</nanos>
+  <sequence>102</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-9,5,main]Posición: 23
+Thread[Thread-9,5,main]Has sacado: 5</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.866186100Z</date>
+  <millis>1665131501866</millis>
+  <nanos>186100</nanos>
+  <sequence>103</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posición: 23</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.872273400Z</date>
+  <millis>1665131501872</millis>
+  <nanos>273400</nanos>
+  <sequence>104</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-9,5,main]Posición: 25
+Thread[Thread-9,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.872273400Z</date>
+  <millis>1665131501872</millis>
+  <nanos>273400</nanos>
+  <sequence>105</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Thread[Thread-9,5,main]Nueva Posición: 25</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.920524Z</date>
+  <millis>1665131501920</millis>
+  <nanos>524000</nanos>
+  <sequence>106</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-7,5,main]Posición: 17
+Thread[Thread-7,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.920524Z</date>
+  <millis>1665131501920</millis>
+  <nanos>524000</nanos>
+  <sequence>107</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posición: 17</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:41.936081300Z</date>
+  <millis>1665131501936</millis>
+  <nanos>81300</nanos>
+  <sequence>108</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>15</thread>
   <message>Thread[Thread-0,5,main]Posición: 20
-Thread[Thread-0,5,main]Has sacado: 1</message>
+Thread[Thread-0,5,main]Has sacado: 5</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:39.585457900Z</date>
-  <millis>1665130779585</millis>
-  <nanos>457900</nanos>
-  <sequence>143</sequence>
+  <date>2022-10-07T08:31:41.936081300Z</date>
+  <millis>1665131501936</millis>
+  <nanos>81300</nanos>
+  <sequence>109</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
@@ -1789,60 +1364,10 @@ Thread[Thread-0,5,main]Has sacado: 1</message>
   <message>Thread[Thread-0,5,main]Nueva Posición: 20</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:39.627732Z</date>
-  <millis>1665130779627</millis>
-  <nanos>732000</nanos>
-  <sequence>144</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Posición: 25
-Thread[Thread-3,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:39.627732Z</date>
-  <millis>1665130779627</millis>
-  <nanos>732000</nanos>
-  <sequence>145</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Nueva Posición: 25</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:39.811171500Z</date>
-  <millis>1665130779811</millis>
-  <nanos>171500</nanos>
-  <sequence>146</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 21
-Thread[Thread-9,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:39.811171500Z</date>
-  <millis>1665130779811</millis>
-  <nanos>171500</nanos>
-  <sequence>147</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 21</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:40.043984400Z</date>
-  <millis>1665130780043</millis>
-  <nanos>984400</nanos>
-  <sequence>148</sequence>
+  <date>2022-10-07T08:31:41.960929500Z</date>
+  <millis>1665131501960</millis>
+  <nanos>929500</nanos>
+  <sequence>110</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
@@ -1852,10 +1377,10 @@ Thread[Thread-9,5,main]Has sacado: 3</message>
 Thread[Thread-4,5,main]Has sacado: 2</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:40.043984400Z</date>
-  <millis>1665130780043</millis>
-  <nanos>984400</nanos>
-  <sequence>149</sequence>
+  <date>2022-10-07T08:31:41.960929500Z</date>
+  <millis>1665131501960</millis>
+  <nanos>929500</nanos>
+  <sequence>111</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
@@ -1864,185 +1389,373 @@ Thread[Thread-4,5,main]Has sacado: 2</message>
   <message>Thread[Thread-4,5,main]Nueva Posición: 17</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:40.245670100Z</date>
-  <millis>1665130780245</millis>
-  <nanos>670100</nanos>
-  <sequence>150</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Posición: 20
-Thread[Thread-4,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:40.245670100Z</date>
-  <millis>1665130780245</millis>
-  <nanos>670100</nanos>
-  <sequence>151</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Nueva Posición: 20</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:40.265970Z</date>
-  <millis>1665130780265</millis>
-  <nanos>970000</nanos>
-  <sequence>152</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Posición: 28
-Thread[Thread-6,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:40.265970Z</date>
-  <millis>1665130780265</millis>
-  <nanos>970000</nanos>
-  <sequence>153</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:40.288185100Z</date>
-  <millis>1665130780288</millis>
-  <nanos>185100</nanos>
-  <sequence>154</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Posición: 28
-Thread[Thread-7,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:40.288185100Z</date>
-  <millis>1665130780288</millis>
-  <nanos>185100</nanos>
-  <sequence>155</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:40.323041700Z</date>
-  <millis>1665130780323</millis>
-  <nanos>41700</nanos>
-  <sequence>156</sequence>
+  <date>2022-10-07T08:31:41.996476700Z</date>
+  <millis>1665131501996</millis>
+  <nanos>476700</nanos>
+  <sequence>112</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 22
-Thread[Thread-2,5,main]Has sacado: 5</message>
+  <message>Thread[Thread-2,5,main]Posición: 9
+Thread[Thread-2,5,main]Has sacado: 2</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:40.323041700Z</date>
-  <millis>1665130780323</millis>
-  <nanos>41700</nanos>
-  <sequence>157</sequence>
+  <date>2022-10-07T08:31:41.996476700Z</date>
+  <millis>1665131501996</millis>
+  <nanos>476700</nanos>
+  <sequence>113</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 22</message>
+  <message>Thread[Thread-2,5,main]Nueva Posición: 9</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:40.326041300Z</date>
-  <millis>1665130780326</millis>
-  <nanos>41300</nanos>
-  <sequence>158</sequence>
+  <date>2022-10-07T08:31:42.394595700Z</date>
+  <millis>1665131502394</millis>
+  <nanos>595700</nanos>
+  <sequence>114</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Thread[Thread-3,5,main]Posición: 23
+Thread[Thread-3,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:42.394595700Z</date>
+  <millis>1665131502394</millis>
+  <nanos>595700</nanos>
+  <sequence>115</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posición: 23</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:42.465599300Z</date>
+  <millis>1665131502465</millis>
+  <nanos>599300</nanos>
+  <sequence>116</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-8,5,main]Posición: 12
+Thread[Thread-8,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:42.465599300Z</date>
+  <millis>1665131502465</millis>
+  <nanos>599300</nanos>
+  <sequence>117</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posición: 12</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:42.550073500Z</date>
+  <millis>1665131502550</millis>
+  <nanos>73500</nanos>
+  <sequence>118</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Thread[Thread-5,5,main]Posición: 20
+Thread[Thread-5,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:42.550073500Z</date>
+  <millis>1665131502550</millis>
+  <nanos>73500</nanos>
+  <sequence>119</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Thread[Thread-5,5,main]Nueva Posición: 20</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:42.589706800Z</date>
+  <millis>1665131502589</millis>
+  <nanos>706800</nanos>
+  <sequence>120</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Thread[Thread-4,5,main]Posición: 21
+Thread[Thread-4,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:42.589706800Z</date>
+  <millis>1665131502589</millis>
+  <nanos>706800</nanos>
+  <sequence>121</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Thread[Thread-4,5,main]Nueva Posición: 21</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:42.633842400Z</date>
+  <millis>1665131502633</millis>
+  <nanos>842400</nanos>
+  <sequence>122</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Thread[Thread-0,5,main]Posición: 24
+Thread[Thread-0,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:42.633842400Z</date>
+  <millis>1665131502633</millis>
+  <nanos>842400</nanos>
+  <sequence>123</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posición: 24</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:42.664702600Z</date>
+  <millis>1665131502664</millis>
+  <nanos>702600</nanos>
+  <sequence>124</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-8,5,main]Posición: 14
+Thread[Thread-8,5,main]Has sacado: 2</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:42.664702600Z</date>
+  <millis>1665131502664</millis>
+  <nanos>702600</nanos>
+  <sequence>125</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posición: 14</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:42.740612900Z</date>
+  <millis>1665131502740</millis>
+  <nanos>612900</nanos>
+  <sequence>126</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-7,5,main]Posición: 18
+Thread[Thread-7,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:42.740612900Z</date>
+  <millis>1665131502740</millis>
+  <nanos>612900</nanos>
+  <sequence>127</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Thread[Thread-7,5,main]Nueva Posición: 18</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:42.821009600Z</date>
+  <millis>1665131502821</millis>
+  <nanos>9600</nanos>
+  <sequence>128</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Posición: 33
-Thread[Thread-6,5,main]Has sacado: 5</message>
+  <message>Thread[Thread-6,5,main]Posición: 15
+Thread[Thread-6,5,main]Has sacado: 2</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:40.326041300Z</date>
-  <millis>1665130780326</millis>
-  <nanos>41300</nanos>
-  <sequence>159</sequence>
+  <date>2022-10-07T08:31:42.821009600Z</date>
+  <millis>1665131502821</millis>
+  <nanos>9600</nanos>
+  <sequence>129</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Nueva Posición: 27</message>
+  <message>Thread[Thread-6,5,main]Nueva Posición: 15</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:40.487264700Z</date>
-  <millis>1665130780487</millis>
-  <nanos>264700</nanos>
-  <sequence>160</sequence>
+  <date>2022-10-07T08:31:42.927790Z</date>
+  <millis>1665131502927</millis>
+  <nanos>790000</nanos>
+  <sequence>130</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Posición: 30
-Thread[Thread-7,5,main]Has sacado: 2</message>
+  <thread>23</thread>
+  <message>Thread[Thread-8,5,main]Posición: 15
+Thread[Thread-8,5,main]Has sacado: 1</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:40.487264700Z</date>
-  <millis>1665130780487</millis>
-  <nanos>264700</nanos>
-  <sequence>161</sequence>
+  <date>2022-10-07T08:31:42.927790Z</date>
+  <millis>1665131502927</millis>
+  <nanos>790000</nanos>
+  <sequence>131</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>22</thread>
-  <message>Thread[Thread-7,5,main]Nueva Posición: 30</message>
+  <thread>23</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posición: 15</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:40.487264700Z</date>
-  <millis>1665130780487</millis>
-  <nanos>264700</nanos>
-  <sequence>162</sequence>
+  <date>2022-10-07T08:31:42.950674400Z</date>
+  <millis>1665131502950</millis>
+  <nanos>674400</nanos>
+  <sequence>132</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>22</thread>
-  <message>30</message>
+  <thread>18</thread>
+  <message>Thread[Thread-3,5,main]Posición: 26
+Thread[Thread-3,5,main]Has sacado: 3</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:40.510991Z</date>
-  <millis>1665130780510</millis>
-  <nanos>991000</nanos>
-  <sequence>163</sequence>
+  <date>2022-10-07T08:31:42.950674400Z</date>
+  <millis>1665131502950</millis>
+  <nanos>674400</nanos>
+  <sequence>133</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Thread[Thread-3,5,main]Nueva Posición: 26</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.119413Z</date>
+  <millis>1665131503119</millis>
+  <nanos>413000</nanos>
+  <sequence>134</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-8,5,main]Posición: 19
+Thread[Thread-8,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.119413Z</date>
+  <millis>1665131503119</millis>
+  <nanos>413000</nanos>
+  <sequence>135</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Thread[Thread-8,5,main]Nueva Posición: 19</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.152782Z</date>
+  <millis>1665131503152</millis>
+  <nanos>782000</nanos>
+  <sequence>136</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Thread[Thread-1,5,main]Posición: 20
+Thread[Thread-1,5,main]Has sacado: 4</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.152782Z</date>
+  <millis>1665131503152</millis>
+  <nanos>782000</nanos>
+  <sequence>137</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Thread[Thread-1,5,main]Nueva Posición: 20</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.205552Z</date>
+  <millis>1665131503205</millis>
+  <nanos>552000</nanos>
+  <sequence>138</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Thread[Thread-2,5,main]Posición: 10
+Thread[Thread-2,5,main]Has sacado: 1</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.205552Z</date>
+  <millis>1665131503205</millis>
+  <nanos>552000</nanos>
+  <sequence>139</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Thread[Thread-2,5,main]Nueva Posición: 10</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.224849400Z</date>
+  <millis>1665131503224</millis>
+  <nanos>849400</nanos>
+  <sequence>140</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>16</thread>
   <message>Thread[Thread-1,5,main]Posición: 22
-Thread[Thread-1,5,main]Has sacado: 1</message>
+Thread[Thread-1,5,main]Has sacado: 2</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:40.510991Z</date>
-  <millis>1665130780510</millis>
-  <nanos>991000</nanos>
-  <sequence>164</sequence>
+  <date>2022-10-07T08:31:43.224849400Z</date>
+  <millis>1665131503224</millis>
+  <nanos>849400</nanos>
+  <sequence>141</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
@@ -2051,1819 +1764,98 @@ Thread[Thread-1,5,main]Has sacado: 1</message>
   <message>Thread[Thread-1,5,main]Nueva Posición: 22</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:40.697516200Z</date>
-  <millis>1665130780697</millis>
-  <nanos>516200</nanos>
-  <sequence>165</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Posición: 25
-Thread[Thread-0,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:40.697516200Z</date>
-  <millis>1665130780697</millis>
-  <nanos>516200</nanos>
-  <sequence>166</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Nueva Posición: 25</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:40.738218400Z</date>
-  <millis>1665130780738</millis>
-  <nanos>218400</nanos>
-  <sequence>167</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 23
-Thread[Thread-9,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:40.738218400Z</date>
-  <millis>1665130780738</millis>
-  <nanos>218400</nanos>
-  <sequence>168</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 23</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:40.790128200Z</date>
-  <millis>1665130780790</millis>
-  <nanos>128200</nanos>
-  <sequence>169</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Posición: 28
-Thread[Thread-6,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:40.790128200Z</date>
-  <millis>1665130780790</millis>
-  <nanos>128200</nanos>
-  <sequence>170</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.007996500Z</date>
-  <millis>1665130781007</millis>
-  <nanos>996500</nanos>
-  <sequence>171</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 24
-Thread[Thread-8,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.007996500Z</date>
-  <millis>1665130781007</millis>
-  <nanos>996500</nanos>
-  <sequence>172</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 24</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.022693700Z</date>
-  <millis>1665130781022</millis>
-  <nanos>693700</nanos>
-  <sequence>173</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Posición: 23
-Thread[Thread-4,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.022693700Z</date>
-  <millis>1665130781022</millis>
-  <nanos>693700</nanos>
-  <sequence>174</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Nueva Posición: 23</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.078622300Z</date>
-  <millis>1665130781078</millis>
-  <nanos>622300</nanos>
-  <sequence>175</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Posición: 30
-Thread[Thread-0,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.078622300Z</date>
-  <millis>1665130781078</millis>
-  <nanos>622300</nanos>
-  <sequence>176</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>15</thread>
-  <message>Thread[Thread-0,5,main]Nueva Posición: 30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.078622300Z</date>
-  <millis>1665130781078</millis>
-  <nanos>622300</nanos>
-  <sequence>177</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>15</thread>
-  <message>30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.079628500Z</date>
-  <millis>1665130781079</millis>
-  <nanos>628500</nanos>
-  <sequence>178</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 28
-Thread[Thread-9,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.079628500Z</date>
-  <millis>1665130781079</millis>
-  <nanos>628500</nanos>
-  <sequence>179</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.135609900Z</date>
-  <millis>1665130781135</millis>
-  <nanos>609900</nanos>
-  <sequence>180</sequence>
+  <date>2022-10-07T08:31:43.261814500Z</date>
+  <millis>1665131503261</millis>
+  <nanos>814500</nanos>
+  <sequence>142</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Posición: 14
-Thread[Thread-5,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.135609900Z</date>
-  <millis>1665130781135</millis>
-  <nanos>609900</nanos>
-  <sequence>181</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Nueva Posición: 14</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.266083500Z</date>
-  <millis>1665130781266</millis>
-  <nanos>83500</nanos>
-  <sequence>182</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 27
-Thread[Thread-8,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.266083500Z</date>
-  <millis>1665130781266</millis>
-  <nanos>83500</nanos>
-  <sequence>183</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 27</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.274035800Z</date>
-  <millis>1665130781274</millis>
-  <nanos>35800</nanos>
-  <sequence>184</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Posición: 23
-Thread[Thread-1,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.274035800Z</date>
-  <millis>1665130781274</millis>
-  <nanos>35800</nanos>
-  <sequence>185</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Nueva Posición: 23</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.434800100Z</date>
-  <millis>1665130781434</millis>
-  <nanos>800100</nanos>
-  <sequence>186</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Posición: 27
-Thread[Thread-3,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.434800100Z</date>
-  <millis>1665130781434</millis>
-  <nanos>800100</nanos>
-  <sequence>187</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Nueva Posición: 27</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.726064100Z</date>
-  <millis>1665130781726</millis>
-  <nanos>64100</nanos>
-  <sequence>188</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 23
-Thread[Thread-2,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.726064100Z</date>
-  <millis>1665130781726</millis>
-  <nanos>64100</nanos>
-  <sequence>189</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 23</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.845691600Z</date>
-  <millis>1665130781845</millis>
-  <nanos>691600</nanos>
-  <sequence>190</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 32
-Thread[Thread-9,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.845691600Z</date>
-  <millis>1665130781845</millis>
-  <nanos>691600</nanos>
-  <sequence>191</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.913127200Z</date>
-  <millis>1665130781913</millis>
-  <nanos>127200</nanos>
-  <sequence>192</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 27
-Thread[Thread-2,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.913127200Z</date>
-  <millis>1665130781913</millis>
-  <nanos>127200</nanos>
-  <sequence>193</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 27</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.935777900Z</date>
-  <millis>1665130781935</millis>
-  <nanos>777900</nanos>
-  <sequence>194</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 31
-Thread[Thread-8,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.935777900Z</date>
-  <millis>1665130781935</millis>
-  <nanos>777900</nanos>
-  <sequence>195</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.991865400Z</date>
-  <millis>1665130781991</millis>
-  <nanos>865400</nanos>
-  <sequence>196</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 34
-Thread[Thread-8,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:41.991865400Z</date>
-  <millis>1665130781991</millis>
-  <nanos>865400</nanos>
-  <sequence>197</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 26</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.259069900Z</date>
-  <millis>1665130782259</millis>
-  <nanos>69900</nanos>
-  <sequence>198</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Posición: 25
-Thread[Thread-4,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.259069900Z</date>
-  <millis>1665130782259</millis>
-  <nanos>69900</nanos>
-  <sequence>199</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Nueva Posición: 25</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.277102Z</date>
-  <millis>1665130782277</millis>
-  <nanos>102000</nanos>
-  <sequence>200</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Posición: 26
-Thread[Thread-1,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.277102Z</date>
-  <millis>1665130782277</millis>
-  <nanos>102000</nanos>
-  <sequence>201</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Nueva Posición: 26</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.343196700Z</date>
-  <millis>1665130782343</millis>
-  <nanos>196700</nanos>
-  <sequence>202</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 29
-Thread[Thread-2,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.343196700Z</date>
-  <millis>1665130782343</millis>
-  <nanos>196700</nanos>
-  <sequence>203</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.526526500Z</date>
-  <millis>1665130782526</millis>
-  <nanos>526500</nanos>
-  <sequence>204</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Posición: 29
-Thread[Thread-3,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.526526500Z</date>
-  <millis>1665130782526</millis>
-  <nanos>526500</nanos>
-  <sequence>205</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.609943700Z</date>
-  <millis>1665130782609</millis>
-  <nanos>943700</nanos>
-  <sequence>206</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 29
-Thread[Thread-9,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.609943700Z</date>
-  <millis>1665130782609</millis>
-  <nanos>943700</nanos>
-  <sequence>207</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.783529800Z</date>
-  <millis>1665130782783</millis>
-  <nanos>529800</nanos>
-  <sequence>208</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Posición: 32
-Thread[Thread-6,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.783529800Z</date>
-  <millis>1665130782783</millis>
-  <nanos>529800</nanos>
-  <sequence>209</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.828950500Z</date>
-  <millis>1665130782828</millis>
-  <nanos>950500</nanos>
-  <sequence>210</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 27
-Thread[Thread-8,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.828950500Z</date>
-  <millis>1665130782828</millis>
-  <nanos>950500</nanos>
-  <sequence>211</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 27</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.860653900Z</date>
-  <millis>1665130782860</millis>
-  <nanos>653900</nanos>
-  <sequence>212</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Posición: 17
+  <message>Thread[Thread-5,5,main]Posición: 23
 Thread[Thread-5,5,main]Has sacado: 3</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:42.860653900Z</date>
-  <millis>1665130782860</millis>
-  <nanos>653900</nanos>
-  <sequence>213</sequence>
+  <date>2022-10-07T08:31:43.262815800Z</date>
+  <millis>1665131503262</millis>
+  <nanos>815800</nanos>
+  <sequence>143</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Nueva Posición: 17</message>
+  <message>Thread[Thread-5,5,main]Nueva Posición: 23</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:42.914029200Z</date>
-  <millis>1665130782914</millis>
-  <nanos>29200</nanos>
-  <sequence>214</sequence>
+  <date>2022-10-07T08:31:43.316883700Z</date>
+  <millis>1665131503316</millis>
+  <nanos>883700</nanos>
+  <sequence>144</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 31
-Thread[Thread-9,5,main]Has sacado: 2</message>
+  <thread>15</thread>
+  <message>Thread[Thread-0,5,main]Posición: 28
+Thread[Thread-0,5,main]Has sacado: 4</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:42.914029200Z</date>
-  <millis>1665130782914</millis>
-  <nanos>29200</nanos>
-  <sequence>215</sequence>
+  <date>2022-10-07T08:31:43.316883700Z</date>
+  <millis>1665131503316</millis>
+  <nanos>883700</nanos>
+  <sequence>145</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 29</message>
+  <thread>15</thread>
+  <message>Thread[Thread-0,5,main]Nueva Posición: 28</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:42.956304500Z</date>
-  <millis>1665130782956</millis>
-  <nanos>304500</nanos>
-  <sequence>216</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 31
-Thread[Thread-2,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.956304500Z</date>
-  <millis>1665130782956</millis>
-  <nanos>304500</nanos>
-  <sequence>217</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.992034700Z</date>
-  <millis>1665130782992</millis>
-  <nanos>34700</nanos>
-  <sequence>218</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 33
-Thread[Thread-2,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:42.992034700Z</date>
-  <millis>1665130782992</millis>
-  <nanos>34700</nanos>
-  <sequence>219</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 27</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:43.014385300Z</date>
-  <millis>1665130783014</millis>
-  <nanos>385300</nanos>
-  <sequence>220</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 32
-Thread[Thread-8,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:43.014385300Z</date>
-  <millis>1665130783014</millis>
-  <nanos>385300</nanos>
-  <sequence>221</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:43.054133100Z</date>
-  <millis>1665130783054</millis>
-  <nanos>133100</nanos>
-  <sequence>222</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 31
-Thread[Thread-9,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:43.054133100Z</date>
-  <millis>1665130783054</millis>
-  <nanos>133100</nanos>
-  <sequence>223</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:43.248487800Z</date>
-  <millis>1665130783248</millis>
-  <nanos>487800</nanos>
-  <sequence>224</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 32
-Thread[Thread-8,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:43.248487800Z</date>
-  <millis>1665130783248</millis>
-  <nanos>487800</nanos>
-  <sequence>225</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:43.608340500Z</date>
-  <millis>1665130783608</millis>
-  <nanos>340500</nanos>
-  <sequence>226</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Posición: 31
-Thread[Thread-3,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:43.608340500Z</date>
-  <millis>1665130783608</millis>
-  <nanos>340500</nanos>
-  <sequence>227</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.118126700Z</date>
-  <millis>1665130784118</millis>
-  <nanos>126700</nanos>
-  <sequence>228</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Posición: 27
-Thread[Thread-1,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.118126700Z</date>
-  <millis>1665130784118</millis>
-  <nanos>126700</nanos>
-  <sequence>229</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Nueva Posición: 27</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.165101500Z</date>
-  <millis>1665130784165</millis>
-  <nanos>101500</nanos>
-  <sequence>230</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Posición: 27
-Thread[Thread-4,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.165101500Z</date>
-  <millis>1665130784165</millis>
-  <nanos>101500</nanos>
-  <sequence>231</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Nueva Posición: 27</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.255233200Z</date>
-  <millis>1665130784255</millis>
-  <nanos>233200</nanos>
-  <sequence>232</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Posición: 32
-Thread[Thread-3,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.255233200Z</date>
-  <millis>1665130784255</millis>
-  <nanos>233200</nanos>
-  <sequence>233</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.266226400Z</date>
-  <millis>1665130784266</millis>
-  <nanos>226400</nanos>
-  <sequence>234</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Posición: 19
-Thread[Thread-5,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.266226400Z</date>
-  <millis>1665130784266</millis>
-  <nanos>226400</nanos>
-  <sequence>235</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Nueva Posición: 19</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.286148300Z</date>
-  <millis>1665130784286</millis>
-  <nanos>148300</nanos>
-  <sequence>236</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Posición: 29
-Thread[Thread-4,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.286148300Z</date>
-  <millis>1665130784286</millis>
-  <nanos>148300</nanos>
-  <sequence>237</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.356207100Z</date>
-  <millis>1665130784356</millis>
-  <nanos>207100</nanos>
-  <sequence>238</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 33
-Thread[Thread-9,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.356207100Z</date>
-  <millis>1665130784356</millis>
-  <nanos>207100</nanos>
-  <sequence>239</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 27</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.440543300Z</date>
-  <millis>1665130784440</millis>
-  <nanos>543300</nanos>
-  <sequence>240</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Posición: 34
-Thread[Thread-4,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.440543300Z</date>
-  <millis>1665130784440</millis>
-  <nanos>543300</nanos>
-  <sequence>241</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Nueva Posición: 26</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.457358800Z</date>
-  <millis>1665130784457</millis>
-  <nanos>358800</nanos>
-  <sequence>242</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 29
-Thread[Thread-2,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.457358800Z</date>
-  <millis>1665130784457</millis>
-  <nanos>358800</nanos>
-  <sequence>243</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.555564900Z</date>
-  <millis>1665130784555</millis>
-  <nanos>564900</nanos>
-  <sequence>244</sequence>
+  <date>2022-10-07T08:31:43.407053100Z</date>
+  <millis>1665131503407</millis>
+  <nanos>53100</nanos>
+  <sequence>146</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Posición: 31
-Thread[Thread-6,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.555564900Z</date>
-  <millis>1665130784555</millis>
-  <nanos>564900</nanos>
-  <sequence>245</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.573843900Z</date>
-  <millis>1665130784573</millis>
-  <nanos>843900</nanos>
-  <sequence>246</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Posición: 22
-Thread[Thread-5,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.573843900Z</date>
-  <millis>1665130784573</millis>
-  <nanos>843900</nanos>
-  <sequence>247</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Nueva Posición: 22</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.735577600Z</date>
-  <millis>1665130784735</millis>
-  <nanos>577600</nanos>
-  <sequence>248</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 31
-Thread[Thread-8,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:44.735577600Z</date>
-  <millis>1665130784735</millis>
-  <nanos>577600</nanos>
-  <sequence>249</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:45.257604200Z</date>
-  <millis>1665130785257</millis>
-  <nanos>604200</nanos>
-  <sequence>250</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 31
-Thread[Thread-8,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:45.257604200Z</date>
-  <millis>1665130785257</millis>
-  <nanos>604200</nanos>
-  <sequence>251</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:45.270596100Z</date>
-  <millis>1665130785270</millis>
-  <nanos>596100</nanos>
-  <sequence>252</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Posición: 28
-Thread[Thread-4,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:45.270596100Z</date>
-  <millis>1665130785270</millis>
-  <nanos>596100</nanos>
-  <sequence>253</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:45.514317700Z</date>
-  <millis>1665130785514</millis>
-  <nanos>317700</nanos>
-  <sequence>254</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Posición: 30
-Thread[Thread-3,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:45.514317700Z</date>
-  <millis>1665130785514</millis>
-  <nanos>317700</nanos>
-  <sequence>255</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>Thread[Thread-3,5,main]Nueva Posición: 30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:45.514317700Z</date>
-  <millis>1665130785514</millis>
-  <nanos>317700</nanos>
-  <sequence>256</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>18</thread>
-  <message>30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:45.621201400Z</date>
-  <millis>1665130785621</millis>
-  <nanos>201400</nanos>
-  <sequence>257</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Posición: 32
-Thread[Thread-1,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:45.621201400Z</date>
-  <millis>1665130785621</millis>
-  <nanos>201400</nanos>
-  <sequence>258</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:45.627408500Z</date>
-  <millis>1665130785627</millis>
-  <nanos>408500</nanos>
-  <sequence>259</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 32
-Thread[Thread-2,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:45.627408500Z</date>
-  <millis>1665130785627</millis>
-  <nanos>408500</nanos>
-  <sequence>260</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:46.005246500Z</date>
-  <millis>1665130786005</millis>
-  <nanos>246500</nanos>
-  <sequence>261</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 32
-Thread[Thread-9,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:46.005246500Z</date>
-  <millis>1665130786005</millis>
-  <nanos>246500</nanos>
-  <sequence>262</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:46.210912800Z</date>
-  <millis>1665130786210</millis>
-  <nanos>912800</nanos>
-  <sequence>263</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Posición: 26
-Thread[Thread-5,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:46.210912800Z</date>
-  <millis>1665130786210</millis>
-  <nanos>912800</nanos>
-  <sequence>264</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Nueva Posición: 26</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:46.341432400Z</date>
-  <millis>1665130786341</millis>
-  <nanos>432400</nanos>
-  <sequence>265</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 32
-Thread[Thread-2,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:46.341432400Z</date>
-  <millis>1665130786341</millis>
-  <nanos>432400</nanos>
-  <sequence>266</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:46.392572500Z</date>
-  <millis>1665130786392</millis>
-  <nanos>572500</nanos>
-  <sequence>267</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Posición: 31
-Thread[Thread-1,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:46.392572500Z</date>
-  <millis>1665130786392</millis>
-  <nanos>572500</nanos>
-  <sequence>268</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:46.421582200Z</date>
-  <millis>1665130786421</millis>
-  <nanos>582200</nanos>
-  <sequence>269</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Posición: 34
+  <message>Thread[Thread-6,5,main]Posición: 20
 Thread[Thread-6,5,main]Has sacado: 5</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:46.421582200Z</date>
-  <millis>1665130786421</millis>
-  <nanos>582200</nanos>
-  <sequence>270</sequence>
+  <date>2022-10-07T08:31:43.407053100Z</date>
+  <millis>1665131503407</millis>
+  <nanos>53100</nanos>
+  <sequence>147</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Nueva Posición: 26</message>
+  <message>Thread[Thread-6,5,main]Nueva Posición: 20</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:46.931943300Z</date>
-  <millis>1665130786931</millis>
-  <nanos>943300</nanos>
-  <sequence>271</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Posición: 29
-Thread[Thread-5,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:46.931943300Z</date>
-  <millis>1665130786931</millis>
-  <nanos>943300</nanos>
-  <sequence>272</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.193581600Z</date>
-  <millis>1665130787193</millis>
-  <nanos>581600</nanos>
-  <sequence>273</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 34
-Thread[Thread-8,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.193581600Z</date>
-  <millis>1665130787193</millis>
-  <nanos>581600</nanos>
-  <sequence>274</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 26</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.263539100Z</date>
-  <millis>1665130787263</millis>
-  <nanos>539100</nanos>
-  <sequence>275</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Posición: 30
-Thread[Thread-4,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.263539100Z</date>
-  <millis>1665130787263</millis>
-  <nanos>539100</nanos>
-  <sequence>276</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>Thread[Thread-4,5,main]Nueva Posición: 30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.263539100Z</date>
-  <millis>1665130787263</millis>
-  <nanos>539100</nanos>
-  <sequence>277</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>19</thread>
-  <message>30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.392580100Z</date>
-  <millis>1665130787392</millis>
-  <nanos>580100</nanos>
-  <sequence>278</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Posición: 30
-Thread[Thread-6,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.392580100Z</date>
-  <millis>1665130787392</millis>
-  <nanos>580100</nanos>
-  <sequence>279</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>Thread[Thread-6,5,main]Nueva Posición: 30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.392580100Z</date>
-  <millis>1665130787392</millis>
-  <nanos>580100</nanos>
-  <sequence>280</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>21</thread>
-  <message>30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.539297900Z</date>
-  <millis>1665130787539</millis>
-  <nanos>297900</nanos>
-  <sequence>281</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 33
-Thread[Thread-9,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.539297900Z</date>
-  <millis>1665130787539</millis>
-  <nanos>297900</nanos>
-  <sequence>282</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 27</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.722766200Z</date>
-  <millis>1665130787722</millis>
-  <nanos>766200</nanos>
-  <sequence>283</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Posición: 30
-Thread[Thread-2,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.722766200Z</date>
-  <millis>1665130787722</millis>
-  <nanos>766200</nanos>
-  <sequence>284</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>Thread[Thread-2,5,main]Nueva Posición: 30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.722766200Z</date>
-  <millis>1665130787722</millis>
-  <nanos>766200</nanos>
-  <sequence>285</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>17</thread>
-  <message>30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.963024100Z</date>
-  <millis>1665130787963</millis>
-  <nanos>24100</nanos>
-  <sequence>286</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Posición: 30
-Thread[Thread-5,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.963024100Z</date>
-  <millis>1665130787963</millis>
-  <nanos>24100</nanos>
-  <sequence>287</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>Thread[Thread-5,5,main]Nueva Posición: 30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:47.963024100Z</date>
-  <millis>1665130787963</millis>
-  <nanos>24100</nanos>
-  <sequence>288</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>20</thread>
-  <message>30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:48.029644100Z</date>
-  <millis>1665130788029</millis>
-  <nanos>644100</nanos>
-  <sequence>289</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Posición: 34
-Thread[Thread-1,5,main]Has sacado: 5</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:48.029644100Z</date>
-  <millis>1665130788029</millis>
-  <nanos>644100</nanos>
-  <sequence>290</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Nueva Posición: 26</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:48.050708700Z</date>
-  <millis>1665130788050</millis>
-  <nanos>708700</nanos>
-  <sequence>291</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Posición: 28
-Thread[Thread-1,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:48.050708700Z</date>
-  <millis>1665130788050</millis>
-  <nanos>708700</nanos>
-  <sequence>292</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:48.693740300Z</date>
-  <millis>1665130788693</millis>
-  <nanos>740300</nanos>
-  <sequence>293</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Posición: 30
-Thread[Thread-1,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:48.693740300Z</date>
-  <millis>1665130788693</millis>
-  <nanos>740300</nanos>
-  <sequence>294</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>Thread[Thread-1,5,main]Nueva Posición: 30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:48.693740300Z</date>
-  <millis>1665130788693</millis>
-  <nanos>740300</nanos>
-  <sequence>295</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>16</thread>
-  <message>30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:48.875608Z</date>
-  <millis>1665130788875</millis>
-  <nanos>608000</nanos>
-  <sequence>296</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 27
-Thread[Thread-8,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:48.875608Z</date>
-  <millis>1665130788875</millis>
-  <nanos>608000</nanos>
-  <sequence>297</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 27</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:48.989378500Z</date>
-  <millis>1665130788989</millis>
-  <nanos>378500</nanos>
-  <sequence>298</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 29
-Thread[Thread-9,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:48.989378500Z</date>
-  <millis>1665130788989</millis>
-  <nanos>378500</nanos>
-  <sequence>299</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:50.103421700Z</date>
-  <millis>1665130790103</millis>
-  <nanos>421700</nanos>
-  <sequence>300</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 31
-Thread[Thread-9,5,main]Has sacado: 2</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:50.103421700Z</date>
-  <millis>1665130790103</millis>
-  <nanos>421700</nanos>
-  <sequence>301</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 29</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:50.196640200Z</date>
-  <millis>1665130790196</millis>
-  <nanos>640200</nanos>
-  <sequence>302</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Posición: 30
-Thread[Thread-8,5,main]Has sacado: 3</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:50.196640200Z</date>
-  <millis>1665130790196</millis>
-  <nanos>640200</nanos>
-  <sequence>303</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>Thread[Thread-8,5,main]Nueva Posición: 30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:50.196640200Z</date>
-  <millis>1665130790196</millis>
-  <nanos>640200</nanos>
-  <sequence>304</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>23</thread>
-  <message>30</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:50.949444700Z</date>
-  <millis>1665130790949</millis>
-  <nanos>444700</nanos>
-  <sequence>305</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 33
-Thread[Thread-9,5,main]Has sacado: 4</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:50.949444700Z</date>
-  <millis>1665130790949</millis>
-  <nanos>444700</nanos>
-  <sequence>306</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 27</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:52.689532200Z</date>
-  <millis>1665130792689</millis>
-  <nanos>532200</nanos>
-  <sequence>307</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Posición: 28
-Thread[Thread-9,5,main]Has sacado: 1</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:52.689532200Z</date>
-  <millis>1665130792689</millis>
-  <nanos>532200</nanos>
-  <sequence>308</sequence>
-  <logger>MainJuego</logger>
-  <level>INFO</level>
-  <class>Jugador</class>
-  <method>run</method>
-  <thread>24</thread>
-  <message>Thread[Thread-9,5,main]Nueva Posición: 28</message>
-</record>
-<record>
-  <date>2022-10-07T08:19:53.946525800Z</date>
-  <millis>1665130793946</millis>
-  <nanos>525800</nanos>
-  <sequence>309</sequence>
+  <date>2022-10-07T08:31:43.420342500Z</date>
+  <millis>1665131503420</millis>
+  <nanos>342500</nanos>
+  <sequence>148</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
   <method>run</method>
   <thread>24</thread>
   <message>Thread[Thread-9,5,main]Posición: 30
-Thread[Thread-9,5,main]Has sacado: 2</message>
+Thread[Thread-9,5,main]Has sacado: 5</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:53.946525800Z</date>
-  <millis>1665130793946</millis>
-  <nanos>525800</nanos>
-  <sequence>310</sequence>
+  <date>2022-10-07T08:31:43.420342500Z</date>
+  <millis>1665131503420</millis>
+  <nanos>342500</nanos>
+  <sequence>149</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
@@ -3872,10 +1864,130 @@ Thread[Thread-9,5,main]Has sacado: 2</message>
   <message>Thread[Thread-9,5,main]Nueva Posición: 30</message>
 </record>
 <record>
-  <date>2022-10-07T08:19:53.946525800Z</date>
-  <millis>1665130793946</millis>
-  <nanos>525800</nanos>
-  <sequence>311</sequence>
+  <date>2022-10-07T08:31:43.420342500Z</date>
+  <millis>1665131503420</millis>
+  <nanos>342500</nanos>
+  <sequence>152</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>28</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.421348600Z</date>
+  <millis>1665131503421</millis>
+  <nanos>348600</nanos>
+  <sequence>158</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>19</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.420342500Z</date>
+  <millis>1665131503420</millis>
+  <nanos>342500</nanos>
+  <sequence>157</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>18</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.420342500Z</date>
+  <millis>1665131503420</millis>
+  <nanos>342500</nanos>
+  <sequence>156</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>20</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.420342500Z</date>
+  <millis>1665131503420</millis>
+  <nanos>342500</nanos>
+  <sequence>155</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>23</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.420342500Z</date>
+  <millis>1665131503420</millis>
+  <nanos>342500</nanos>
+  <sequence>154</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>26</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.420342500Z</date>
+  <millis>1665131503420</millis>
+  <nanos>342500</nanos>
+  <sequence>151</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>22</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.420342500Z</date>
+  <millis>1665131503420</millis>
+  <nanos>342500</nanos>
+  <sequence>150</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>10</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.420342500Z</date>
+  <millis>1665131503420</millis>
+  <nanos>342500</nanos>
+  <sequence>153</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>21</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.421348600Z</date>
+  <millis>1665131503421</millis>
+  <nanos>348600</nanos>
+  <sequence>159</sequence>
+  <logger>MainJuego</logger>
+  <level>INFO</level>
+  <class>Jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Ha ganado el hilo: Thread[Thread-9,5,main]</message>
+</record>
+<record>
+  <date>2022-10-07T08:31:43.424346500Z</date>
+  <millis>1665131503424</millis>
+  <nanos>346500</nanos>
+  <sequence>160</sequence>
   <logger>MainJuego</logger>
   <level>INFO</level>
   <class>Jugador</class>
