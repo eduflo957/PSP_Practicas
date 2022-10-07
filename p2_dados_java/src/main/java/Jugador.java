@@ -34,11 +34,12 @@ public class Jugador implements Runnable {
 
             logging.info(hilo + "Nueva Posición: " + sumadorTiradas);
             if (sumadorTiradas == 100) {
+                Thread.currentThread().getThreadGroup().interrupt();
                 hilo.getThreadGroup().interrupt();
-                logging.info("Ha ganado el jugador: " + hilo);
+                logging.info("Ha ganado el hilo: " + Thread.currentThread());
             }
-    }
+        }
 
         logging.info(String.valueOf(sumadorTiradas));
-}
+    }
 }
