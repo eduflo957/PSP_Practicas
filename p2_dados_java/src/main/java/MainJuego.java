@@ -12,6 +12,6 @@ public class MainJuego {
         for (int i = 0; i < listaJugadores.size(); i++) {
             listaJugadores.get(i).start();
         }
-        logging.info(String.valueOf(listaJugadores));
+        logging.info("El número de este hilo es: "+ listaJugadores);
     }
 }

@@ -3,13 +3,9 @@ import java.util.logging.Logger;
 
 public class Jugador implements Runnable {
     Logger logging;
-    public Jugador (Logger logging){
-        this.logging=logging;
-    }
 
-    void threadMessage(String message) {
-        String threadName = Thread.currentThread().getName();
-        this.logging.info(String.format("%s: %s%n", threadName, message));
+    public Jugador(Logger logging) {
+        this.logging = logging;
     }
 
     int MAXESPERA = 2000;
@@ -23,18 +19,26 @@ public class Jugador implements Runnable {
 
         while (sumadorTiradas != topeTablero) {
             try {
-                sumadorTiradas += ran.nextInt(1, 6);
-                if (sumadorTiradas > topeTablero) {
-                    resto = sumadorTiradas - topeTablero;
-                    sumadorTiradas = topeTablero - resto;
-                }
-                Thread.sleep(MAXESPERA);
-                threadMessage("Mi sumador de tirada es: " + sumadorTiradas);
+                Thread.sleep(1 + ran.nextInt(MAXESPERA));
             } catch (InterruptedException e) {
                 break;
             }
-        }
+
+            int dadoAleatorio = ran.nextInt(1, 6);
+            sumadorTiradas += dadoAleatorio;
+            logging.info(hilo + "Posición: " + sumadorTiradas + "\n" + hilo + "Has sacado: " + dadoAleatorio);
+            if (sumadorTiradas > topeTablero) {
+                resto = sumadorTiradas - topeTablero;
+                sumadorTiradas = topeTablero - resto;
+            }
+
+            logging.info(hilo + "Nueva Posición: " + sumadorTiradas);
+            if (sumadorTiradas == 100) {
+                hilo.getThreadGroup().interrupt();
+                logging.info("Ha ganado el jugador: " + hilo);
+            }
+    }
 
         logging.info(String.valueOf(sumadorTiradas));
-    }
+}
 }
